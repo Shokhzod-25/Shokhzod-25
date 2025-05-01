@@ -72,12 +72,6 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shokhzod-25&theme=tokyonight&locale=ru"/>
-</p>
-
-<br>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shokhzod-25&text_color=ffffff&bg_color=1c1917&custom_title=Используемые%20языки"/>
 </p>
 
