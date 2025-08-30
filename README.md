@@ -1,5 +1,5 @@
 <h1 align="center">Привет-привет! 👋🏻</h1>
-<h3 align="center">Бэкенд-разработчик | 17 лет | Таджикистан → Москва</h3>
+<h3 align="center">Шохзод | 17 лет | Москва</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shahzod2555&style=flat-square&color=blueviolet" alt="Profile Views"/>
@@ -12,7 +12,7 @@
 - 👋 Меня зовут **Шохзод**
 - 🌍 Живу в Москве, родом из Таджикистана
 - 🏫 Учусь в **МГОК**, специальность — **Информационные системы и программирование**
-- 💻 Люблю backend-разработку и изучаю современные технологии
+- 💻 Занимаюсь backend-разработкой и изучаю современные технологии
 
 ---
 
@@ -28,7 +28,7 @@
 ## 📫 Связаться со мной:
 
 <p align="center">
-	<a href="https://t.me/s6043e">
+	<a href="https://t.me/shokh69">
 		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 	</a>
 	<a href="mailto:shahzodergashev2555@icloud.com">
@@ -36,6 +36,9 @@
 	</a>
 	<a href="https://github.com/Shokhzod-25">
 		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+	</a>
+	<a href="tel:+79969976043">
+		<img src="https://img.shields.io/badge/Telethon?style=for-the-badge&logo=github&logoColor=white"/>
 	</a>
 </p>
 
