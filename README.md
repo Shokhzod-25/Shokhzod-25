@@ -38,7 +38,7 @@
 		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 	</a>
 	<a href="tel:+79969976043">
-		<img src="https://img.shields.io/badge/Telethon?style=for-the-badge&logo=github&logoColor=white"/>
+		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 	</a>
 </p>
 
